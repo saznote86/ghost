@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix Remix Ghost Avatar AI",
+  "description": "An interactive floating avatar overlay and chat interface for Qwen, Gemini, and OpenAI models with live lip-sync, TTS, and 3D/video avatar customization.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
